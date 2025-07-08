@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Session dan auth
+.wwebjs_auth/
+session-data/
+
+# Log dan cache
+npm-debug.log
+yarn-error.log
+*.log
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
